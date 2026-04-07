@@ -97,7 +97,7 @@ See the [Documentation](https://docs.gptr.dev/docs/gpt-researcher/getting-starte
 2. Clone the project and navigate to the directory:
 
     ```bash
-    git clone https://github.com/assafelovic/gpt-researcher.git
+    git clone https://github.com/MeAkash77/Autonomous-AI-Research-Agent-Next-Gen-AI-System.git
     cd gpt-researcher
     ```
 
